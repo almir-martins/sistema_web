@@ -13,7 +13,7 @@ A maioria das ofertas de trabalho verificadas eram de automação de planilhas o
 Com o intuito de disponibilizar no futuro a aplicação desenvolvida como exemplo de desenvolvimento para ofertas de freelancers e também para testar o comportamento da aplicação em ambiente do servidor, que tem dinâmica diferente do localhost quando envolve browsers e redirecionamento de páginas, realizei o deploy da mesma em um servidor de aplicações.
 
 Fiz o deploy no Heroku Cloud que além de gratuito e seguro já tenho familiaridade de uso. Outra vantagem do Heroku é o deploy direto do Github inclusive de forma automática, fazendo re-deploy sempre que um commit é realizado no repositório.
-[URL da aplicação:](https://websistema.herokuapp.com/)
+[websistema.herokuapp.com](https://websistema.herokuapp.com/)
 
 ## Fase 3 - Sistema de Login
 
