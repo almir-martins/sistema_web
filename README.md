@@ -25,3 +25,5 @@ Nesta fase está sendo desenvolvida a etapa de validação de usuários para que
 - Tela de "Esqueci meu username"
 - Criação de sessão e armazenamento de cookies
 
+*Tela de Login*
+![Tela de Login](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/login.jpg)
