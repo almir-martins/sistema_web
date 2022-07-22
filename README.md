@@ -27,3 +27,6 @@ Nesta fase está sendo desenvolvida a etapa de validação de usuários para que
 
 *Tela de Login*
 ![Tela de Login](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/login.jpg)
+
+*Erro de Login*
+![Erro de login](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/erro.jpg)
