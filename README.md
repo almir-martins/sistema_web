@@ -30,3 +30,9 @@ Nesta fase está sendo desenvolvida a etapa de validação de usuários para que
 
 *Erro de Login*
 ![Erro de login](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/erro.jpg)
+
+*Tela de Cadastro*
+![Tela de Cadastro](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/cadastro.jpg)
+
+*Tela de recuperação de usuário ou senha*
+![Tela de recuperação de usuário ou senha](https://raw.githubusercontent.com/almir-martins/sistema_web/main/img/senha.jpg)
